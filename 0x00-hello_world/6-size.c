@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main -main fxn
+ * main - main fxn
  *
  * Return: return 0
  */
